@@ -15,6 +15,7 @@ end
  end
 
   def new_meal(name,total,tip)
+    
   end
 
 end
